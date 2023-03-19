@@ -1,0 +1,1 @@
+#Escribe un programa que solicite al usuario ingresar tres números enteros. El programa deberá imprimir en pantalla el mensaje "Hay un número par" si al menos uno de los números ingresados es par. De lo contrario, deberá imprimir en pantalla el mensaje "No hay números pares".

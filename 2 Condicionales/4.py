@@ -1,0 +1,1 @@
+#Escribe un programa que solicite al usuario ingresar una letra. Si la letra ingresada es una vocal (a, e, i, o, u), el programa deberá imprimir en pantalla el mensaje "La letra ingresada es una vocal". De lo contrario, el programa deberá imprimir en pantalla el mensaje "La letra ingresada es una consonante".

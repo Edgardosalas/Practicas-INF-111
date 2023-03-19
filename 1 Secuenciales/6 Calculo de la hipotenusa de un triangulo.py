@@ -1,0 +1,1 @@
+#Escribe un programa que calcule la longitud de la hipotenusa de un triángulo rectángulo en función de las longitudes de los catetos. El programa debe pedir al usuario que ingrese la longitud de los catetos y mostrar la longitud de la hipotenusa.

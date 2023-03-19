@@ -1,0 +1,1 @@
+#Escribe un programa que pida al usuario una letra y determine si es una vocal o una consonante. Imprime "Es una vocal" o "Es una consonante" según corresponda.

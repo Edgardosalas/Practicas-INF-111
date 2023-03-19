@@ -1,0 +1,1 @@
+#Escribe un programa que pida al usuario un número entero y determine si es múltiplo de 3 y/o de 5. Imprime "Es múltiplo de 3", "Es múltiplo de 5" o "No es múltiplo de 3 ni de 5" según corresponda.
