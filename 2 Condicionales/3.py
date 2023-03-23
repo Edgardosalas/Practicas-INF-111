@@ -6,8 +6,8 @@
 # Peso normal: IMC entre 18.5 y 24.9
 # Sobrepeso: IMC entre 25 y 29.9
 # Obesidad: IMC mayor a 30
-p=float(input("Introduzca su peso: "))
-a=float(input("Introduzca su altura: "))
+p=float(input())
+a=float(input())
 imc=p/a**2
 imc=round(imc, 2)
 if imc<18.5:
