@@ -1,4 +1,4 @@
-package Practicas.T3_Repetitivos;
+package Java.T3_Repetitivos;
 import java.util.Scanner;
 public class E3 {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Practicas.T2_Condicionales;
+package Java.T2_Condicionales;
 import java.util.Scanner;
 public class E3 {
     public static void main(String[] args){
